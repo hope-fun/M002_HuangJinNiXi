@@ -1,0 +1,11 @@
+文件夹 PATH 列表
+卷序列号为 00000200 CEE6:9F37
+E:.
+│  tree.txt
+│  
+├─branches
+├─plateform
+│  ├─android
+│  └─ios
+├─tags
+└─trunk
